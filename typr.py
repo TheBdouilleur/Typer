@@ -1,3 +1,6 @@
+'''
+Python 3 app
+'''
 import speech_recognition as sr
 from pyautogui import typewrite
 import logger

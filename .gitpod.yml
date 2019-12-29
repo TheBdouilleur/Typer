@@ -1,1 +1,8 @@
 { image: gitpod/workspace-full }
+
+vscode:
+  extensions:
+    - CodeStream.codestream@5.2.5:ljZOWGLFiTmeEnZ2Av0u1w==
+vscode:
+  extensions:
+    - vscode-icons-team.vscode-icons@9.7.0:vWMZFN0zy+UAVL2V5iuz4A==
